@@ -50,8 +50,6 @@
 
 [**Team Factor**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Team%20Factor.png)
 
-[**team mouse**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/team%20mouse.png)
-
 [**Team Skyline**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Team%20Skyline.png)
 
 [**TenToesDown**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/TenToesDown.png)
@@ -59,6 +57,8 @@
 [**Third Prime**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Third%20Prime.png)
 
 [**UltimateDarklordWizardz**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/UltimateDarklordWizardz.png)
+
+[**Villainous**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Villainous%20(ex-mouse).png)
 
 [**Wanted Goons**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Wanted%20Goons.png)
 
