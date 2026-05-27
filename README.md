@@ -10,7 +10,7 @@
 
 [**Celestial Esports**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Celestial%20Esports.png)
 
-[**Club 333**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Club%20333.png
+[**Club 333**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Club%20333.png)
 
 [**DETONATE**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/DETONATE.png)
 
