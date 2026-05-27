@@ -26,7 +26,7 @@
 
 [**Iowa Stormboar**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Iowa%20Stormboar.png)
 
-[**Its a Secret**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Its%20a%20Secret.png)
+[**Its a Secret**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Its%20A%20Secret.png)
 
 [**Moniseum**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Moniseum.png)
 
