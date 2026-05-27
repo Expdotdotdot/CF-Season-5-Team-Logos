@@ -10,13 +10,15 @@
 
 [**Celestial Esports**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Celestial%20Esports.png)
 
+[**Club 333**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Club%20333.png
+
 [**DETONATE**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/DETONATE.png)
 
 [**Exnitas**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Exnitas.png)
 
 [**Fathom Gaming**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Fathom%20Gaming.png)
 
-[**Foxtrot**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Foxtrot.png)
+[**Festina Lente**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Festina%20Lente.png)
 
 [**FRZ Unit**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/FRZ%20Unit.png)
 
@@ -30,7 +32,7 @@
 
 [**My Life Be Like**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/My%20Life%20Be%20Like%20(ex-Locally%20Hated).png)
 
-[**New Legends**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/New%20Legends.PNG)
+[**New Legends**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/New%20Legends.png)
 
 [**NineFly Esports**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/NineFly%20Esports.png)
 
@@ -49,8 +51,6 @@
 [**Sleepless_Gaming**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Sleepless_Gaming.png)
 
 [**Team Factor**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Team%20Factor.png)
-
-[**Team Skyline**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Team%20Skyline.png)
 
 [**TenToesDown**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/TenToesDown.png)
 
