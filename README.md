@@ -2,7 +2,7 @@
 
 [**Afterimage**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Afterimage.png)
 
-[**AUE ONE**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/648d1b999a1d46871d731a56198e59489990cf4d/AUE%20ONE.png)
+[**AUE ONE**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/AUE%20ONE.png)
 
 [**AURA**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/AURA.png)
 
