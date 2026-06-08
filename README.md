@@ -20,7 +20,7 @@
 
 [**Festina Lente**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Festina%20Lente.png)
 
-[**FRZ Unit**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/FRZ%20Unit.png)
+[**ex-FRZ Unit**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/ex-FRZ%20Unit.PNG)
 
 [**Holly Molly**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-5-Team-Logos/refs/heads/main/Holly%20Molly.png)
 
